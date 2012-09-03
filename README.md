@@ -2,7 +2,7 @@
 PHP Auto CMS is a lightweight auto formatting, auto styling, auto generating, auto everything CMS. I wrote this one day when I got tired of seeing Apache Directory Indexes every time I would create a folder that would have multiple mini sites (like a "projects" page for a website).
 
 # Usage
-To use, put index.php and style.css in the root of the folder you would like to use as your CMS view. Every other folder in that directory will now be automatically indexed for use in the CMS, for instance:
+To use, put `index.php` and `style.css` in the root of the folder you would like to use as your CMS view. Every other folder in that directory will now be automatically indexed for use in the CMS, for instance:
 
 > projects
 > >	-HTML

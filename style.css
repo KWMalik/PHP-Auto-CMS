@@ -1,0 +1,45 @@
+body{
+margin-top:30px;
+background-color: white;
+text-align: center;
+}
+#content{
+  margin: 0 auto;
+  height: 768px;
+  width: 1024px;
+  text-align: center;
+}
+#item{
+text-align: center;
+height: 100px;
+background-color: gray;
+
+}
+#article{
+font-size: 24;
+text-align: center;
+padding-top: 10px;
+height:25px;
+color: black;
+}
+#desc{
+margin-left: 0px;
+width:800px;
+position: absolute;
+left: 200px;
+text-align: center;
+color: black;
+height: 25px;
+padding-top: 10px;
+}
+#img{
+position: absolute;
+width:100px;
+height:100px;
+}
+a:visited{
+color:black;}
+a:active{
+text-decoration: none;}
+a:link{
+text-decoration: none;}
